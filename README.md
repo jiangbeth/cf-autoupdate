@@ -11,7 +11,7 @@ mkdir cf-openwrt
 cd cf-openwrt
 
 # 下载 cf-openwrt
-wget https://raw.githubusercontent.com/Lbingyi/cf-autoupdate/main/cf-openwrt.sh
+wget https://raw.githubusercontent.com/jiangbeth/cf-autoupdate/main/cf-openwrt.sh
 
 # 赋予执行权限
 chmod +x cf-openwrt.sh
